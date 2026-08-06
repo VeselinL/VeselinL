@@ -1,6 +1,6 @@
 # Hi, I'm Veselin
 
-I'm a Computer Science student at the University of Novi Sad and a Machine Learning Engineer Intern at Sixsentix.
+I'm a Computer Science student at the University of Novi Sad.
 
 - Interested in computer vision, autonomous systems, machine learning, and low-level software
 - I enjoy building practical systems and understanding how they work under the hood
